@@ -63,7 +63,6 @@ namespace Senai.Rental.WebApi.Repositories
                     }
                 }
             }
-            throw new NotImplementedException();
         }
 
         /// <summary>
@@ -121,8 +120,6 @@ namespace Senai.Rental.WebApi.Repositories
                     return null;
                 }
             }
-
-            throw new NotImplementedException();
         }
 
         /// <summary>

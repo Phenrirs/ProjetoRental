@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Senai.Rental.WebApi
-build_property.ProjectDir = C:\Users\admin\Desktop\SPRINT 2 - Back End\Atividades\Rental\Senai.Rental.WebApi\Senai.Rental.WebApi\
+build_property.ProjectDir = C:\Users\admin\Desktop\Projetos\ProjetoRental\Senai.Rental.WebApi\Senai.Rental.WebApi\

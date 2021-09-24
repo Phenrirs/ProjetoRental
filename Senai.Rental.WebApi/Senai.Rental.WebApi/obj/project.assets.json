@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\SPRINT 2 - Back End\\Atividades\\Rental\\Senai.Rental.WebApi\\Senai.Rental.WebApi\\Senai.Rental.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Projetos\\ProjetoRental\\Senai.Rental.WebApi\\Senai.Rental.WebApi\\Senai.Rental.WebApi.csproj",
       "projectName": "Senai.Rental.WebApi",
-      "projectPath": "C:\\Users\\admin\\Desktop\\SPRINT 2 - Back End\\Atividades\\Rental\\Senai.Rental.WebApi\\Senai.Rental.WebApi\\Senai.Rental.WebApi.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\Projetos\\ProjetoRental\\Senai.Rental.WebApi\\Senai.Rental.WebApi\\Senai.Rental.WebApi.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\SPRINT 2 - Back End\\Atividades\\Rental\\Senai.Rental.WebApi\\Senai.Rental.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\Projetos\\ProjetoRental\\Senai.Rental.WebApi\\Senai.Rental.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
